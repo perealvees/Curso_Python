@@ -12,6 +12,7 @@ Ordem de precedência dos operadores:
 
 Usando módulos.
 Para usar os modulos usamos o .import
+O import é para você ter acesso a bibliotecas
 
 
 
