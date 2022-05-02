@@ -1,0 +1,18 @@
+
+método = use .format para usar mascara de formatação
+
+
+Ordem de precedência dos operadores:
+1º () 
+2º ** 
+3º * / // %
+4º +-
+
+
+
+Usando módulos.
+Para usar os modulos usamos o .import
+
+
+
+
