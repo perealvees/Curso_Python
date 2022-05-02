@@ -1,0 +1,1 @@
+#f Fazer a tabuada de um numero inteiro qualquer solicitado pelo usuário

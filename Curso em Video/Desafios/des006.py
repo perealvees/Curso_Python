@@ -1,4 +1,4 @@
-# faça um programa que leia um número e que mostre seu dobro, triplo e a raiz quadrada
+# Faça um programa que leia um número e que mostre seu dobro, triplo e a raiz quadrada
 
 n = int(input('Digite um número: '))
 d = n * 2
