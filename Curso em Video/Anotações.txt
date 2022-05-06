@@ -11,7 +11,35 @@ Usando módulos.
 Para usar os modulos usamos o .import
 O import é para você ter acesso a bibliotecas
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - -
-fatiamento de string
+Fatiamento de string
+
+Quando se tem uma range, começa a contagem pelo 0 e se remove o ultimo.
+
+Analise de texto:
+Frase.Len(tamanho), retorna total de caractere
+Frase.count('o'),  contar quantas vezes aparece um item especifico
+Frase.find('deo'), encontrar posição de item específico
+Frase.replace('X','Y'), substituir item especificio
+Frase.upper(), deixar letra maiúscula
+Frase.lower(), deixar letra minúscula
+Frase.capitalize(), deixar primeira letra maiúscula
+Frase.title(), deixar primeira letra de cada palavra maiúscula
+Frase.strip(), remove espaço inútil
+frase.split(), tira os espaços e refaz os índices
+
+colocar varias linhas apenas com um print:
+print(""" ettc etc etc """)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
