@@ -28,7 +28,7 @@ Frase.strip(), remove espaço inútil
 frase.split(), tira os espaços e refaz os índices
 
 colocar varias linhas apenas com um print:
-print(""" ettc etc etc """)
+print(""" etc etc etc """)
 
 
 
